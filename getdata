@@ -1,5 +1,5 @@
 /* global controller, Chart */
-/*author ravindrakumar yadav
+/*author ravindrakumar yadav*/
 
 const canvas = document.createElement('canvas');
 
